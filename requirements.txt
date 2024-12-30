@@ -1,0 +1,7 @@
+demucs==4.0.0
+streamlit==1.24.0
+torchaudio
+torch
+soundfile
+librosa
+numpy
